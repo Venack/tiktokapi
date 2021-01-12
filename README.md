@@ -43,7 +43,7 @@ Having said that, our API includes all of the latest security features tiktok ha
 The source code of the solution is written in Python, but can be rewritten in any desired C based programming language upon request.
 
 # Device register demo
-![](device_register.gif)
+![](dev_register.gif)
 
 
 # Limitations
