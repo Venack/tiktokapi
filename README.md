@@ -34,7 +34,7 @@ We provide access to a large number of endpoints, such as:
 
 Having said that, our API includes all of the latest security features tiktok has in place, in order to ensure the maximum effiency in getting the data:
 
-  - xGorgon version 0404, emulated. 
+  - xGorgon version 0404, emulated
   - Xlog (version 02) activated devices to eliminate the shadowbanning, in source code
   - TT encrypt algorithm, in source code, used for encrypting data in the device register process
   - All the headers being correctly calculated
