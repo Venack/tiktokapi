@@ -48,7 +48,7 @@ The source code of the solution is written in Python, but can be rewritten in an
 
 # Limitations
 
-Currently known limitations are :
+Currently known limitations are:
 
 - Getting any information from a user's profile is capped at 5000 items by Tiktok and cannot be bypassed in any way
 - Using the API the right way, it can easily sustain to up to 10 million requests daily (with only one device for gorgon calculation) for scraping data, running the solution on a cloud server
