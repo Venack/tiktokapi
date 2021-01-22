@@ -52,7 +52,7 @@ Currently known limitations are:
 
 - Getting any information from a user's profile is capped at 5000 items by Tiktok and cannot be bypassed in any way
 - Using the API the right way, it can easily sustain to up to 10 million requests daily (with only one device for gorgon calculation) for scraping data, running the solution on a cloud server
-- The gorgon key is obtained by emulating the algorithm on a android application, so a device is needed in order to run it (emulators won't work) (one device can deliver about 10 M gorgons / day )
+- The gorgon key is obtained by emulating the algorithm on a android application, so a device is needed in order to run it (emulators won't work) - one device can deliver about 10 M gorgons/day
 
 # Contact
 
