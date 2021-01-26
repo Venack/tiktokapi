@@ -10,7 +10,7 @@ Our services include
 # Features and functionalities
 We provide access to a large number of endpoints, such as:
   - Logging in a user with username or email: for cookie retrieval
-  - Registering accounts using emails and endpoint for verifying those accounts (works for botting purposes as of 14.01.2021)
+  - Registering accounts using emails and endpoint for verifying those accounts 
   - Liking/disliking a user post or a comment
   - Following/unfollowing a user
   - Commenting on a video
