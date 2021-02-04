@@ -48,7 +48,7 @@ The source code of the solution is written in Python, but can be rewritten in an
 # Xlog demo
 Decrypting xlog
 ![decrypt](xlog_decrypt.gif)
-Encrypt with xlog
+Encrypting xlog
 ![encrypt](xlog_encrypt.gif)
 
 # Gorgon demo
