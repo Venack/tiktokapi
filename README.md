@@ -45,6 +45,13 @@ The source code of the solution is written in Python, but can be rewritten in an
 # Device register demo
 ![](dev_register.gif)
 
+# Xlog demo
+![decrypt](xlog_decrypt.gif)
+![encrypt](xlog_encrypt.gif)
+
+# Gorgon demo
+![](gorgon_demo.gif)
+
 
 # Limitations
 
