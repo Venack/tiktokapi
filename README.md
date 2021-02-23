@@ -29,7 +29,7 @@ We provide access to a large number of endpoints, such as:
   - Upload video
   - Get user's followers/followings (capped at 5000)
   - Check if email is already used for other account endpoint
-  - [TO BE IMPLEMENTED] Change user nickname
+  - Change user nickname
   - [TO BE IMPLEMENTED] Change user profile picture
 
 Having said that, our API includes all of the latest security features tiktok has in place, in order to ensure the maximum effiency in getting the data:
