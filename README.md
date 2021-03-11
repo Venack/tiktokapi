@@ -60,7 +60,7 @@ Encrypting xlog
 Currently known limitations are:
 
 - Getting any information from a user's profile is capped at 5000 items by Tiktok and cannot be bypassed in any way
-- Using the API the right way, it can easily sustain to up to 150 million requests daily for scraping data
+- Using the API the right way, it can easily sustain up to 150 million requests daily for scraping data
 
 
 # Contact
