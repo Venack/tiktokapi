@@ -34,8 +34,8 @@ We provide access to a large number of endpoints, such as:
 
 Having said that, our API includes all of the latest security features tiktok has in place, in order to ensure the maximum effiency in getting the data:
 
-  - xGorgon version 0404, emulated
-  - Xlog (version 02) activated devices to eliminate the shadowbanning, in source code
+  - xGorgon version 0404, in source code.
+  - Xlog (version 02) activated devices to eliminate the shadowbanning, emulated.
   - TT encrypt algorithm, in source code, used for encrypting data in the device register process
   - All the headers being correctly calculated
   - App log events
@@ -60,8 +60,8 @@ Encrypting xlog
 Currently known limitations are:
 
 - Getting any information from a user's profile is capped at 5000 items by Tiktok and cannot be bypassed in any way
-- Using the API the right way, it can easily sustain to up to 15 million requests daily (with only one device for gorgon calculation) for scraping data
-- The gorgon key is obtained by emulating the algorithm on a android application, so a device is needed in order to run it (emulators won't work) - one device can deliver about 10 - 15 M gorgons/day
+- Using the API the right way, it can easily sustain to up to 150 million requests daily for scraping data
+
 
 # Contact
 
