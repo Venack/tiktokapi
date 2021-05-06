@@ -1,4 +1,4 @@
-# TikTok API
+# TikTok API 
 
 TikTok is one of the fastest growing platform nowadays, having over 800 million active accounts as of 2020. Having such a large user base, the need for an API that accesses data from it is high demand. In order to meet the needs of the market, the team behind our project worked on a reliable product, so that any business or individual can access valuable data from one of the largest social media platforms.
 Our services include
@@ -9,33 +9,23 @@ Our services include
 
 # Features and functionalities
 We provide access to a large number of endpoints, such as:
-  - Logging in a user with username or email: for cookie retrieval
-  - Registering accounts using phone numbers. 
-  - Liking/disliking a user post or a comment
-  - Following/unfollowing a user
-  - Commenting on a video
-  - Replying to a comment
   - Searching for user by username or secure id
   - Search for hashtags
   - Search for sounds
   - Search for videos
-  - Getting a user activity feed (get the latest notifications of a user)
   - Get the likes from a video (capped at 5000 by TikTok)
   - Get user's video (capped at 5000)
   - Get video information
   - Get comments from a video
   - Getting a user profile
   - Get user's followers/followings (capped at 5000)
-  - Check if email is already used for other account endpoint
-  - Change user nickname
 
 Having said that, our API includes all of the latest security features tiktok has in place, in order to ensure the maximum effiency in getting the data:
 
   - xGorgon version 0404, in source code.
-  - Xlog (version 02) activated devices to eliminate the shadowbanning, emulated.
+  - Xlog (version 02) activated devices, in source code.
   - TT encrypt algorithm, in source code, used for encrypting data in the device register process
   - All the headers being correctly calculated
-  - App log events
 
 The source code of the solution is written in Python, but can be rewritten in any desired C based programming language upon request.
 
