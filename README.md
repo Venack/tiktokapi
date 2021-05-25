@@ -2,7 +2,7 @@
 
 TikTok is one of the fastest growing platform nowadays, having over 800 million active accounts as of 2020. Having such a large user base, the need for an API that accesses data from it is high demand. In order to meet the needs of the market, the team behind our project worked on a reliable product, so that any business or individual can access valuable data from one of the largest social media platforms.
 Our services include
-
+ 
   - Access to the source code of tiktok api
   - Setting up infrastructure in order to suit your needs
   - On demand features developed to specifically meet your requirements
