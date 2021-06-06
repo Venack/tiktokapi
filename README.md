@@ -54,6 +54,6 @@ Currently known limitations are:
 
 For further discussions about the API and for potential business collaborations you can email me at ttvenack@gmail.com or send me a message on discord at vEnACk#2207
 
-# Disclaimer
+# Disclaimer 
 -----
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by TikTok or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use at your own risk. We do NOT support or tolerate anyone who wants to use this API to send spam or commit other online crimes. For education purposes only.
